@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For Compteur
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Compteur	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+run	KEYWORD2
+index	KEYWORD2
+setIndex	KEYWORD2
+isSelect	KEYWORD2
+setSelect	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
