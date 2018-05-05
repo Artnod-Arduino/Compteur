@@ -1,5 +1,5 @@
 # Compteur
-Permet de naviguer à travers un menu.4
+Permet de naviguer à travers un menu.  
 
 -----------
 
